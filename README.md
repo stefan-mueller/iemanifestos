@@ -1,4 +1,4 @@
-## Irish Local and European Parliament Election Manifestos (1999--2024)
+## Irish Local and European Parliament Election Manifestos (1999-2024)
 
 This repository contains publicly available party manifestos released prior to Irish Local and European Parliament Elections.
 
