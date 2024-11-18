@@ -6,6 +6,8 @@ The folder [`data`](data) contains the entire text corpus in various file format
 
 The folder [`manifestos_txt`](manifestos_txt) contains all manifestos as separate `txt` files. These files have been converted from the original PDF format and cleaned manually. 
 
+You can download all files by clicking on "Code" -> "Download ZIP".
+
 You can access the text corpus through an interactive dashboard at: https://irishpoliticsdata.shinyapps.io/manifestoexplorer/
 
 You are free to use data and results from the Manifesto Explorer in your research or in news articles as long as you mention the project and (if possible) add a link to this GitHub page or the interactive dashboard.
